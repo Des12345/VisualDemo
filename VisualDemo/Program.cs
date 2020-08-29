@@ -7,7 +7,11 @@ namespace VisualDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.Beep(); // beep method
+            Console.Beep(); // beep method sffdfsdfdsfdsd
+        }
+        public static void method()
+        {
+
         }
     }
 }
