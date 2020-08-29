@@ -10,7 +10,7 @@ namespace VisualDemo
             Console.Beep(); // beep method sffdfsdfdsfdsd
         }
         public static void method()
-        {
+        {//ghjkllöö
 
         }
     }
